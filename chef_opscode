@@ -1,4 +1,1 @@
-suites:
-  - name: powershell
-    run_list: ["recipe[powershell::powershell2]"]
-    includes: [windows-2012r2]
+Chef is an American corporation headquartered in Seattle, Washington.
